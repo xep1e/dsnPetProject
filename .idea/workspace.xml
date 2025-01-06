@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10704eb6-e73a-4c83-90d7-72490a2a9e8f" name="Changes" comment="postgres react">
+    <list default="true" id="10704eb6-e73a-4c83-90d7-72490a2a9e8f" name="Changes" comment="front back">
       <changelist_data name="xepie" email="" />
-      <change afterPath="$PROJECT_DIR$/back/back" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
